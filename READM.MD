@@ -1,4 +1,4 @@
-<!-- Nombre completo:maryuyr Sabi Charry 
+/\* Nombre completo:maryuyr Sabi Charry 
 sistemas operatvo usando :windows 11 
 
 Descripcion de la aplicacion movil :
@@ -28,6 +28,6 @@ expo install react-native-gesture-handler react-native-reanimated reactnative-sc
 |-Respeustas.md
 
 
--->
+\*/
 
  
